@@ -1,0 +1,12 @@
+<%- js('js/require.min.js')%>
+<%- js('js/jquery.min.js')%>
+<%- js('js/main') %>
+<%- partial('_partial/background') %>
+<%- partial('google-analytics') %>
+<% if (theme.mathjax){ %>
+<%- partial('mathjax') %>
+<% } %>
+<%- partial('scrolling-button') %>
+<%- partial('_partial/hide-labels') %>
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>

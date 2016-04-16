@@ -1,0 +1,12 @@
+<% if (theme.hideLabel && (is_archive() || is_tag() || is_category())) { %>
+    <button class="hide-labels">TAG 开关</button>
+    <%- js('js/require.min.js')%>
+    <%- js('js/jquery.min.js')%>
+    <script>
+        $(document).ready(function() {
+            $("button").click(function() {
+                $(".article-info").toggle(200);
+            });
+        });
+    </script>
+<% } %>
