@@ -10,4 +10,4 @@ layout: "page"
 
 趁着这段时间公司的事情不是很多，加上周末太闲，不知道干嘛，干脆写点东西得了，希望能坚持下来。
 
-![](gallery/about/jff.jpg)
+![](/gallery/about/jff.jpg)

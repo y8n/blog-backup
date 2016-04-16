@@ -4,8 +4,8 @@ tags:
 - 图片占位符
 categories:
 - HTML
-thumbnail: /blog/gallery/image-placeholder/thumbnail.png
-banner: /blog/gallery/image-placeholder/banner.png
+thumbnail: /gallery/image-placeholder/thumbnail.png
+banner: /gallery/image-placeholder/banner.png
 ---
 前几天在一个segmentfault上看到一个文章，介绍的是作者用不到1KB的js代码实现的占位符图片，[传送门](http://segmentfault.com/a/1190000004161123)，看到之后觉得蛮有意思的，觉得这个轮子可以造一造。  
 <!-- more -->
@@ -20,8 +20,8 @@ banner: /blog/gallery/image-placeholder/banner.png
 第二个问题：哪些是可配置的呢？首先想一下一个占位符图片有哪些要素，文字得有，图标就视情况而定了，颜色也是，宽高什么的都是应该的。  
 
 ## 最终效果
-![](gallery/image-placeholder/default-image.png)
-![](gallery/image-placeholder/options-image.png)
+![][1]
+![][2]
 
 ## 干货代码
 代码地址:[image-placeholder](https://github.com/y8n/image-placeholder)
@@ -105,3 +105,6 @@ image.onerror = function () {
 
 **最后一句!**欢迎提issue、pr，点个star也是极好的~😃
 
+
+  [1]: /gallery/image-placeholder/default-image.png
+  [2]: /gallery/image-placeholder/options-image.png

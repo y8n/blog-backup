@@ -6,8 +6,8 @@ tags:
 - lint
 categories:
 - Node.js
-thumbnail: /blog/gallery/git-hooks-node/thumbnail.png
-banner: /blog/gallery/git-hooks-node/banner.png
+thumbnail: /gallery/git-hooks-node/thumbnail.png
+banner: /gallery/git-hooks-node/banner.png
 ---
 git hooks想必很多攻城狮都不陌生，官方对于hooks有详细的[文档](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)，也有网友的文章[Git Hooks (1)：介绍](https://segmentfault.com/a/1190000000356485),[GIt Hooks (2)：脚本分类](https://segmentfault.com/a/1190000000356487)，说的非常详细了，这里就不多做介绍，这里主要介绍一下如何写一个hook。
 <!-- more -->
@@ -116,7 +116,7 @@ curl https://raw.githubusercontent.com/y8n/git-hooks-node/master/xgfe-ma/pre-com
 
 
 
-  [1]: /blog/gallery/git-hooks-node/example1.jpeg
-  [2]: /blog/gallery/git-hooks-node/cry.jpeg
-  [3]: /blog/gallery/git-hooks-node/example2.jpeg
-  [4]: /blog/gallery/git-hooks-node/install.png
+  [1]: /gallery/git-hooks-node/example1.jpeg
+  [2]: /gallery/git-hooks-node/cry.jpeg
+  [3]: /gallery/git-hooks-node/example2.jpeg
+  [4]: /gallery/git-hooks-node/install.png
