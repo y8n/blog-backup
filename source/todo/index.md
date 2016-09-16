@@ -8,5 +8,5 @@ layout: "page"
 
 ---update:2016-06-16---
 
-- angular.js指令中获取属性的几种方法  
+- [√] angular.js指令中获取属性的几种方法[链接](../2016/08/12/angular-directive-attributes/)  
 - 译[A Guide To Transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html),可能针对transclude和组合指令做一个系列
